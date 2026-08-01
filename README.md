@@ -7,9 +7,11 @@
 I am entering 9th grade this year! <br>
 Projects I'm proud of:
 - https://github.com/AstronautAG/planets-cards
-- https://github.com/AstronautAG/personal-website <br>
+- https://github.com/AstronautAG/personal-website
+<br>
 Projects currently in progress:
-- https://github.com/AstronautAG/HTML-guide <br>
+- https://github.com/AstronautAG/HTML-guide
+<br>
 ...and many more! Feel free to check out my GitHub repos!
 
 <!---
