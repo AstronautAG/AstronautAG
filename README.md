@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @AstronautAG
-- 👀 I’m interested in space and coding
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on any project! Just email me!
-- 📫 How to reach me: astronautag19@gmail.com
-- ⚡ Fun fact: I have a youtube channel too: https://www.youtube.com/@Astronaut_AG
+👋 Hi, I’m @AstronautAG
+👀 I’m interested in space and coding
+🌱 I’m currently learning HTML, CSS, and JavaScript - I have done some projects with Hack Club in Web Dev!
+💞️ I’m looking to collaborate on any project or any opportunity! Just email me!
+📫 How to reach me: astronautag19@gmail.com
+⚡ Social Media: I have a youtube channel too: https://www.youtube.com/@Astronaut_AG
+I am entering 9th grade this year!
+Projects I'm proud of:
+- https://github.com/AstronautAG/planets-cards
+- https://github.com/AstronautAG/personal-website
+Projects currently in progress:
+- https://github.com/AstronautAG/HTML-guide
+...and many more! Feel free to check out my GitHub repos!
 
 <!---
 AstronautAG/AstronautAG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
