@@ -9,7 +9,7 @@ Projects I'm proud of:
 - https://github.com/AstronautAG/planets-cards
 - https://github.com/AstronautAG/personal-website
 <br>
-Projects currently in progress:
+Projects currently in progress: <br>
 - https://github.com/AstronautAG/HTML-guide
 <br>
 ...and many more! Feel free to check out my GitHub repos!
