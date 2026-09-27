@@ -9,6 +9,20 @@ Projects I'm proud of:
 - https://github.com/AstronautAG/planets-cards
 - https://github.com/AstronautAG/personal-website
 <br>
+My other projects:
+- https://github.com/AstronautAG/boba-bash-website
+- https://github.com/AstronautAG/button-clicker
+- https://github.com/AstronautAG/my-cool-personal-website
+- https://github.com/AstronautAG/my-personal-website
+- https://github.com/AstronautAG/spaceflight-simulator
+- https://github.com/AstronautAG/Recycling-is-Important
+- https://github.com/AstronautAG/My-favorite-movies
+- https://github.com/AstronautAG/Different-coding-languages
+- https://github.com/AstronautAG/myPersonal-Website
+- https://github.com/AstronautAG/space-link
+- https://github.com/AstronautAG/space-website
+- https://github.com/AstronautAG/about-me
+<br>
 Projects currently in progress: <br>
 - https://github.com/AstronautAG/HTML-guide
 <br>
